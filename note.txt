@@ -1,0 +1,10 @@
+[参考]
+http://amnoid.de/tmp/clangtut/tut.html
+
+Introduction to Software Testing
+https://cs.gmu.edu/~offutt/softwaretest/
+
+Clang Tutolial
+https://github.com/loarabia/Clang-tutorial/wiki/TutorialOrig
+
+clangではパフォーマンス上の理由から、独立したプリプロセッサは存在しない。レキサー動作中にプリプロセスを行う。
